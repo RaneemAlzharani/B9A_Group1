@@ -18,6 +18,7 @@ public class Lab1_cpit251 {
         // TODO code application logic here
         System.out.print("Hello! I am Raneem");
         System.out.print("Hello! I am Sara");
+        System.out.print("Hello! I am Maya");
     }
     
 }
