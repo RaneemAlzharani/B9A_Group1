@@ -20,6 +20,7 @@ public class Lab1_cpit251 {
         System.out.print("Hello! I am Sara");
         System.out.print("Hello! I am Maya");
         System.out.println("Hello, I am sherihan");
+        //test
     }
     
 }
